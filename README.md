@@ -12,13 +12,12 @@ src/
 │   ├── TP1/
 │   ├── TP2/
 │   └── TP3/
-├── test/
-│   ├── TP0/
-│   ├── TP1/
-│   ├── TP2/
-│   ├── TP3part1/
-│   └── TP3part2/
-
+└── test/
+    ├── TP0/
+    ├── TP1/
+    ├── TP2/
+    ├── TP3part1/
+    └── TP3part2/
 
 ---
 
