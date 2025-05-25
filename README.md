@@ -8,16 +8,16 @@ Le répertoire `test` contient les tests unitaires et d’intégration associés
 
 src/
 ├── main/
-│ ├── TP0/
-│ ├── TP1/
-│ ├── TP2/
-│ └── TP3/
+│   ├── TP0/
+│   ├── TP1/
+│   ├── TP2/
+│   └── TP3/
 ├── test/
-│ ├── TP0/
-│ ├── TP1/
-│ ├── TP2/
-│ └── TP3part1/
-│ └── TP3part2/
+│   ├── TP0/
+│   ├── TP1/
+│   ├── TP2/
+│   ├── TP3part1/
+│   └── TP3part2/
 
 
 ---
