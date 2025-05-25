@@ -7,18 +7,17 @@ Le répertoire `main` contient le code source des différents TPs.
 Le répertoire `test` contient les tests unitaires et d’intégration associés.
 
 src/
-├── main/
-│   ├── TP0/
-│   ├── TP1/
-│   ├── TP2/
-│   └── TP3/
-└── test/
-    ├── TP0/
-    ├── TP1/
-    ├── TP2/
-    ├── TP3part1/
-    └── TP3part2/
-
+  main/
+    TP0/
+    TP1/
+    TP2/
+    TP3/
+  test/
+    TP0/
+    TP1/
+    TP2/
+    TP3part1/
+    TP3part2/
 ---
 
 ## TP1
